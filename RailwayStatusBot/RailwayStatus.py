@@ -14,6 +14,7 @@ QLN     Kollam Junction
 KTYM    Kottayam
 QLD     Koyilandy
 KTU     Kuttippuram
+MVLK    Mavelikara
 PGTN    Palakkad Town
 SRR     Shoranur
 TVP     Thiruvananthapuram Pettah
