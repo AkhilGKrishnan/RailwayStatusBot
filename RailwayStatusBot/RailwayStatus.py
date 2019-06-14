@@ -4,6 +4,7 @@ AWY     Aluva
 CLT     Calicut
 CAN     Cannanore
 CKI     Chalakudi
+CNGR    Chengannur
 CGY     Changanacherry
 ERS     Ernakulam Junction
 ERN     Ernakulam Town
